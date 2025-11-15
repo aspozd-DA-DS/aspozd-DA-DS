@@ -1,16 +1,38 @@
-## Hi there 👋
+## Привет! 👋
 
-<!--
-**aspozd-DA-DS/aspozd-DA-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Алексей — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
+Имею 14 лет практического опыта в интерпретации сейсмических данных, включая моделирование и принятие решений на основе геофизических данных. В настоящее время активно развиваюсь в области Data Science, осваивая современные инструменты машинного обучения, статистического анализа и визуализации данных.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🧠 Основные навыки
+- **Языки программирования:** Python, SQL  
+- **Анализ данных:** Pandas, NumPy  
+- **Визуализация:** Matplotlib, Seaborn  
+- **Статистика:** регрессия, проверка гипотез  
+- **Машинное обучение:** scikit-learn, PyTorch, TensorFlow, Keras NLP, CatBoost, LightGBM
+
+### ⚙️ Дополнительные навыки
+- Работа с базами данных: PostgreSQL, MySQL  
+- Контроль версий: Git, GitHub  
+ 
+### Проекты
+- [Проект по аналитике по данным с Kaggle](https://github.com/aspozd87)
+- [Проекты по ML по данным песочницы Kaggle](https://github.com/aspozd87)
+- [Pet-проект](https://github.com/aspozd87)
+- 
+### 🎯 Цели
+- Найти стажировку или junior-роль в Data Science/аналитике (удалённо или гибридно, Россия/СНГ)  
+- Создать 4–5 пет-проектов на GitHub и Kaggle  
+- Освоить продвинутые инструменты для анализа и разработки
+
+### 📬 Контакты
+- Email: aspozd87@gmail.com  
+- Telegram: [Alex_Pozd8](https://t.me/Alex_Pozd8)  
+- Портфолио:  
+  - [Проекты на GitHub](https://github.com/aspozd87)  
