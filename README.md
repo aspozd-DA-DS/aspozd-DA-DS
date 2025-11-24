@@ -36,4 +36,4 @@
 - Telegram: [Alex_Pozd8](https://t.me/Alex_Pozd8)
 - [Профиль LinkedIn: aleksei-pozdniakov](https://www.linkedin.com/in/aleksei-pozdniakov-a9348a122/)
 - Портфолио:  
-  - [Проекты на GitHub](https://github.com/aspozd87)  
+  - [Проекты на GitHub](https://github.com/aspozd-DA-DS)  
