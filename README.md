@@ -23,7 +23,7 @@
  
 ### Проекты
 - [Проекты по аналитике с использованием Kaggle](https://github.com/aspozd-DA-DS/DA_projects)
-- [Проекты по ML с использованием песочницы Kaggle](https://github.com/aspozd87)
+- [Проекты по ML с использованием песочницы Kaggle](https://github.com/aspozd-DA-DS/DataScience_projects)
 - [Pet-проекты](https://github.com/aspozd87)
 - 
 ### 🎯 Цели
