@@ -24,7 +24,7 @@
 ### Проекты
 - [Проекты по аналитике с использованием Kaggle](https://github.com/aspozd-DA-DS/DA_projects)
 - [Проекты по ML с использованием песочницы Kaggle](https://github.com/aspozd-DA-DS/DataScience_projects)
-- [Pet-проекты](https://github.com/aspozd87)
+- [Pet-проекты](https://github.com/aspozd-DA-DS/Pet-projects)
 
 ### 🎯 Цели
 - Найти стажировку или junior-роль в Data Science/аналитике (удалённо или гибридно, Россия/СНГ)  
