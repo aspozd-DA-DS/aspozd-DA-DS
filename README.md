@@ -14,7 +14,8 @@
 - **Языки программирования:** Python, SQL  
 - **Анализ данных:** Pandas, NumPy  
 - **Визуализация:** Matplotlib, Seaborn  
-- **Статистика:** регрессия, проверка гипотез  
+- **Статистика:** проверка гипотез
+- **Методы ML:** регрессия, классификация, кластеризация, NLP (Word2Vec), EDA, feature engineering
 - **Машинное обучение:** scikit-learn, PyTorch, TensorFlow, Keras NLP, CatBoost, LightGBM
 
 ### ⚙️ Дополнительные навыки
