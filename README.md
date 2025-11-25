@@ -15,7 +15,9 @@
 - **Визуализация:** Matplotlib, Seaborn ,Plotly
 - **Статистика:** проверка гипотез
 - **Методы ML:** регрессия, классификация, кластеризация, NLP (Word2Vec), EDA, feature engineering
-- **Машинное обучение:** scikit-learn, PyTorch, TensorFlow, Keras NLP, CatBoost, LightGBM
+- **Машинное обучение:** scikit-learn, Linear/Logistic Regression, Random Forest, Gradient Boosting, XGBoost, CatBoost, LightGBM
+- **Deep Learning:** Keras, TensorFlow, PyTorch (basics)
+- **NLP:** NLTK, spaCy, Word2Vec, TF-IDF
 - **Инструменты:** Jupyter Notebook, Kaggle
   
 ### ⚙️ Дополнительные навыки
