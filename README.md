@@ -32,7 +32,7 @@
  
 ### Проекты
 Здесь собраны мои наиболее значимые самостоятельные проекты, выполненные в рамках развития компетенций и pet-проектов.
-- [Проекты по аналитике с использованием Kaggle](https://github.com/aspozd-DA-DS/DataAnalytics_projects)
+- [Проекты по аналитике и ML с использованием датасетов с Kaggle](https://github.com/aspozd-DA-DS/DataAnalytics_projects)
 - [Проекты по ML с использованием песочницы Kaggle](https://github.com/aspozd-DA-DS/DataScience_projects)
 - [Pet-проекты](https://github.com/aspozd-DA-DS/Pet-projects)
 
