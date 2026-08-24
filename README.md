@@ -14,6 +14,7 @@
 </p>
 
 ## Русский
+
 ## Привет! 👋 
 Меня зовут Алексей Поздняков — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
 Имею более 15 лет практического опыта в интерпретации сейсмических данных, включая моделирование и принятие решений на основе геофизических данных. В настоящее время активно развиваюсь в области Data Science, осваивая современные инструменты машинного обучения, статистического анализа и визуализации данных.
@@ -58,6 +59,11 @@
 ---
 
 ## English
+
+## Hi! 👋
+My name is Alexey Pozdnyakov, and I am a Data Scientist looking to apply my experience in data analysis and predictive modeling to projects in the oil and gas industry, as well as in other fields where analytical accuracy and depth are highly valued.
+
+I have more than 15 years of hands-on experience in seismic data interpretation, including modeling and data-driven decision-making based on geophysical data. I am currently expanding my expertise in Data Science, focusing on modern machine learning techniques, statistical analysis, and data visualization.
 
 ### 🧠 Core Skills
 - **Programming Languages:** Python, SQL
