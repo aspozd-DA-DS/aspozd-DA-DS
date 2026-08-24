@@ -1,5 +1,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,6 +14,9 @@
 </p>
 
 ## Русский
+## Привет! 👋 
+Меня зовут Алексей Поздняков — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
+Имею более 15 лет практического опыта в интерпретации сейсмических данных, включая моделирование и принятие решений на основе геофизических данных. В настоящее время активно развиваюсь в области Data Science, осваивая современные инструменты машинного обучения, статистического анализа и визуализации данных.
 
 ### 🧠 Основные навыки
 - **Языки программирования:** Python, SQL
