@@ -10,7 +10,7 @@
 
 
 <p align="right">
-  <a href="#русский">🇷🇺 Русский</a> | <a href="#english">EN English</a>
+  <a href="#русский">🇷🇺 Русский</a> | <a href="#english">en English</a>
 </p>
 
 ## Русский
