@@ -24,8 +24,11 @@
 - **Методы ML:** регрессия, классификация, кластеризация, NLP (Word2Vec), EDA, feature engineering
 - **Машинное обучение:** scikit-learn, Linear/Logistic Regression, Random Forest, Gradient Boosting, XGBoost, CatBoost, LightGBM
 - **Deep Learning:** Keras, TensorFlow, PyTorch (basics)
-- **NLP:** NLTK, spaCy, Word2Vec, TF-IDF
-- **Инструменты:** Jupyter Notebook, Kaggle
+- **Computer Vision:** YOLO, EfficientNet, SAM
+- **NLP:** NLTK, spaCy, Word2Vec, TF-IDF, Sentence Transformers (эмбеддинги)
+- **OCR и обработка документов:** PaddleOCR, EasyOCR, Tesseract
+- **Векторный поиск:** FAISS
+- **Инструменты:** Jupyter Notebook, Kaggle, FastAPI
 
 ### ⚙️ Дополнительные навыки
 - Работа с базами данных: PostgreSQL, MySQL
@@ -35,7 +38,7 @@
 Здесь собраны мои наиболее значимые самостоятельные проекты, выполненные в рамках развития компетенций и pet-проектов.
 - [Проекты по аналитике и ML с использованием датасетов с Kaggle](https://github.com/aspozd-DA-DS/DataAnalytics_projects)
 - [Проекты по ML с использованием песочницы Kaggle](https://github.com/aspozd-DA-DS/DataScience_projects)
-- [Pet-проекты](https://github.com/aspozd-DA-DS/Pet-projects)
+- [Pet-проекты](https://github.com/aspozd-DA-DS/Pet-projects) — включая **[GeoExtract ETL](https://github.com/aspozd-DA-DS/Pet-projects/tree/main/03_GeoExtract_ETL)**: промышленный ETL-конвейер для автоматического анализа геологических отчётов (Oil & Gas) на основе OCR, NLP и семантического поиска — проект на стыке геологии и Data Science
 
 ### 🎯 Цели и статус занятости
 - Открыт к предложениям о работе
@@ -62,8 +65,11 @@
 - **ML Methods:** Regression, classification, clustering, NLP (Word2Vec), EDA, feature engineering
 - **Machine Learning:** scikit-learn, Linear/Logistic Regression, Random Forest, Gradient Boosting, XGBoost, CatBoost, LightGBM
 - **Deep Learning:** Keras, TensorFlow, PyTorch (basics)
-- **NLP:** NLTK, spaCy, Word2Vec, TF-IDF
-- **Tools:** Jupyter Notebook, Kaggle
+- **Computer Vision:** YOLO, EfficientNet, SAM
+- **NLP:** NLTK, spaCy, Word2Vec, TF-IDF, Sentence Transformers (embeddings)
+- **OCR & Document Processing:** PaddleOCR, EasyOCR, Tesseract
+- **Vector Search:** FAISS
+- **Tools:** Jupyter Notebook, Kaggle, FastAPI
 
 ### ⚙️ Additional Skills
 - Database experience: PostgreSQL, MySQL
@@ -73,7 +79,7 @@
 This section features my most notable independent projects, built both to develop my skills and as personal (pet) projects.
 - [Analytics & ML projects using Kaggle datasets](https://github.com/aspozd-DA-DS/DataAnalytics_projects)
 - [ML projects using the Kaggle sandbox](https://github.com/aspozd-DA-DS/DataScience_projects)
-- [Pet projects](https://github.com/aspozd-DA-DS/Pet-projects)
+- [Pet projects](https://github.com/aspozd-DA-DS/Pet-projects) — including **[GeoExtract ETL](https://github.com/aspozd-DA-DS/Pet-projects/tree/main/03_GeoExtract_ETL)**: an industrial-grade ETL pipeline for automated analysis of geological reports (Oil & Gas), built on OCR, NLP, and semantic search — a project at the intersection of geoscience and Data Science
 
 ### 🎯 Goals & Availability
 - Open to work opportunities
