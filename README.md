@@ -9,11 +9,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="right">
-  <a href="#RU">🇷🇺 RU</a> | <a href="#EN">🇬🇧 EN</a>
-</p>
+<p align="right"> <a href="#ru">🇷🇺 RU</a> | <a href="#en">🇬🇧 EN</a> </p>
 
-## RU
+<a name="ru"></a>
 
 ## Привет! 👋 
 Меня зовут Алексей Поздняков — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
@@ -58,7 +56,7 @@
 
 ---
 
-## EN
+<a name="en"></a>
 
 ## Hi! 👋
 My name is Alexey Pozdnyakov, and I am a Data Scientist looking to apply my experience in data analysis and predictive modeling to projects in the oil and gas industry, as well as in other fields where analytical accuracy and depth are highly valued.
