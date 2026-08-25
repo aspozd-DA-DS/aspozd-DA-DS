@@ -13,7 +13,7 @@
   <a href="#русский">🇷🇺 Русский</a> | <a href="#english">🇬🇧 English</a>
 </p>
 
-## Русский
+## RU
 
 ## Привет! 👋 
 Меня зовут Алексей Поздняков — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
@@ -58,7 +58,7 @@
 
 ---
 
-## English
+## EN
 
 ## Hi! 👋
 My name is Alexey Pozdnyakov, and I am a Data Scientist looking to apply my experience in data analysis and predictive modeling to projects in the oil and gas industry, as well as in other fields where analytical accuracy and depth are highly valued.
