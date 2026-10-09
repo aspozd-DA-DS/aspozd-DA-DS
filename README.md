@@ -9,9 +9,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="right"> <a href="#ru">🇷🇺 RU</a> | <a href="#en">🇬🇧 EN</a> </p>
+<a id="top"></a>
 
-<a name="ru"></a>
+<p align="right">
+  <a href="#ru">🇷🇺 RU</a> | <a href="#en">🇬🇧 EN</a>
+</p>
+
+---
+
+<a id="ru"></a>
+
+## 🇷🇺 Русский
 
 ## Привет! 👋 
 Меня зовут Алексей Поздняков — я Data Scientist, стремящийся применить накопленный опыт в анализе данных и построении прогнозных моделей в проектах нефтегазовой отрасли, а также в других сферах, где ценится точность и глубина аналитики.
@@ -54,9 +62,13 @@
 - Портфолио:
   - [Проекты на GitHub](https://github.com/aspozd-DA-DS?tab=repositories)
 
+<p align="right"><a href="#top">⬆ наверх</a></p>
+
 ---
 
-<a name="en"></a>
+<a id="en"></a>
+
+## 🇬🇧 English
 
 ## Hi! 👋
 My name is Alexey Pozdnyakov, and I am a Data Scientist looking to apply my experience in data analysis and predictive modeling to projects in the oil and gas industry, as well as in other fields where analytical accuracy and depth are highly valued.
@@ -99,3 +111,5 @@ This section features my most notable independent projects, built both to develo
 - [LinkedIn profile: aleksei-pozdniakov](https://www.linkedin.com/in/aleksei-pozdniakov-a9348a122/)
 - Portfolio:
   - [GitHub projects](https://github.com/aspozd-DA-DS?tab=repositories)
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
